@@ -6,7 +6,7 @@
 
   <p>- 🌱 I’m currently learning **Python, Flutter And Django Framework**</p>
 
-  <p>- 👨‍💻 All of my projects are available at [https://github.com/Alia005?tab=repositories](https://github.com/Alia005?tab=repositories)</p>
+  <p>- 👨‍💻 All of my projects are available <a href="">Soon</a></p>
 
   <p>- 💬 Ask me about **React JS, Bootstrap,Laravel and SQL**</p>
 
