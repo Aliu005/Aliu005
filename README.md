@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://twitter.com/ximali12" target="blank"><img src="https://img.shields.io/twitter/follow/ximali12?logo=twitter&style=for-the-badge" alt="ximali12" /></a> </p>
 
 
-  <p>- 🌱 I’m currently learning **Python, Flutter And Django Framework**</p>
+  <p>- 🌱 I’m currently learning Python, Flutter And Django Framework</p>
 
   <p>- 👨‍💻 All of my projects are available <a href="">Soon</a></p>
 
-  <p>- 💬 Ask me about **React JS, Bootstrap,Laravel and SQL**</p>
+  <p>- 💬 Ask me about React JS, Bootstrap, Laravel and SQL</p>
 
-  <p>- 📫 How to reach me **https://linktr.ee/Alia005**</p>
+  <p>- 📫 How to reach me: https://linktr.ee/Alia005**</p>
 
-  <p>- ⚡ Fun fact **Teamwork 🌟**</p>
+  <p>- ⚡ Fun fact: Teamwork 🌟</p>
 
 
 <h3 align="left">Connect with me:</h3>
