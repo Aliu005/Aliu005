@@ -10,7 +10,7 @@
 
   <p>- 💬 Ask me about React JS, Bootstrap, Laravel and SQL</p>
 
-  <p>- 📫 How to reach me: https://linktr.ee/Alia005**</p>
+  <p>- 📫 How to reach me: https://linktr.ee/Aliu005</p>
 
   <p>- ⚡ Fun fact: Teamwork 🌟</p>
 
